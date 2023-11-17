@@ -1,2 +1,1 @@
-# outages
-Outages accross the pig empire
+# The Pig Empire global outages
